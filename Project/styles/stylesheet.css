@@ -1,0 +1,72 @@
+
+
+ h1,h2, h3
+{   text-shadow: -2px -2px 4px green;
+    font-size:200%;color:red;
+    color:black;
+    font-family:verdana;
+    text-decoration:underline;
+    text-align:center;
+
+}
+
+header{
+    border-bottom: -2px solid red;
+}
+
+
+body{margin:0;}
+
+section img{
+    width: 100%;
+}
+
+a{
+    font-size:2em;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+}
+
+.anchorLarge{
+    color: rgb(255, 0, 47);
+    font-size: 2em;
+    padding: 5%;
+}
+.base_color{
+    font-size: 800%;
+    color:rgb(0, 0, 0);
+    font-family: "Brush Script MT", cursive;
+}
+
+nav 
+{
+    padding: 5px;
+background-color: black;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color: #B2B2B2B2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border:2px solid red;
+    border-radius: 10px;
+   
+}
+
+nav ul li a {
+    
+    color: white;
+    text-decoration: none
+}
+
+nav ul li:hover{
+    background-color: rgb(186, 27, 45)
+}
